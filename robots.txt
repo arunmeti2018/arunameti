@@ -1,7 +1,8 @@
-# robots.txt for https://arunmeti.netlify.app
+
 
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://arunmeti.netlify.app/sitemap.xml
+Sitemap: https://arunmeti.tech/sitemap.xml
+
